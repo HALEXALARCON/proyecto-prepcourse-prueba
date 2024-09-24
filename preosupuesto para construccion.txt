@@ -1,4 +1,5 @@
--10 kls hierro -30usd
-- 100 ladrillos -15usd
--tuercas y tornillos -25usd
--cemento 10kls -5usd
+-8 kls hierro -20usd
+- 80 ladrillos -12usd
+-tuercas y tornillos -30usd
+-cemento 8kls -4usd
+-1 tabla -4usd
